@@ -1,0 +1,50 @@
+/* Gradient Background */
+body {
+    background: linear-gradient(to bottom, #000000, #2E0854);
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Navbar Styling */
+  .navbar {
+    background: rgba(0, 0, 0, 0.7);
+  }
+  
+  .navbar-brand img {
+    border-radius: 50%;
+  }
+  
+  /* Section Styling */
+  section {
+    padding: 100px 0;
+  }
+  
+  /* Timeline Styling */
+  .timeline {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .timeline-item {
+    padding: 20px 0;
+    border-left: 2px solid #fff;
+    position: relative;
+  }
+  
+  .timeline-content {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 20px;
+  }
+  
+  /* Footer Styling */
+  footer {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px 0;
+  }
+
+  .navigation{
+    opacity: 0.4;
+  }
